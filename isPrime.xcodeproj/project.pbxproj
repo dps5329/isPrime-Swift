@@ -156,6 +156,7 @@
 		A78B9DFF1B1FF650009BC86A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Daniel Schartner";
 				TargetAttributes = {
@@ -407,6 +408,7 @@
 				A78B9E281B1FF650009BC86A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A78B9E291B1FF650009BC86A /* Build configuration list for PBXNativeTarget "isPrimeTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +417,7 @@
 				A78B9E2B1B1FF650009BC86A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
